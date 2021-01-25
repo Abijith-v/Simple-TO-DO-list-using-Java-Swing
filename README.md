@@ -5,4 +5,4 @@ Uses :
   Add a task, 
   View the tasks left, 
   Delete any task when its complete, 
-  Delete all the tasks at once, 
+  Delete all the tasks at once.
